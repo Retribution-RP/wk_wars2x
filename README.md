@@ -14,11 +14,16 @@ Although these can be viewed ingame through the operator manual, the default key
 | Action                    | Key                       | Description |
 | ------------------------- | ------------------------- | ----------- |
 | Open remote               | F5                        | Opens the remote control, this only works if you are the driver of a police vehicle (must have the vehicle class VC_EMERGENCY). |
-| Close remote              | ESC or right mouse button | Closes the remote/all of the displayed UI elements, and returns focus to the game. |
+
 | Lock/unlock front antenna | Numpad 8                  | Locks the current speed of the front antenna. If there is a fast speed displayed, the system will lock the fast speed. Otherwise it will lock the strong speed. When you lock a speed, the radar will audibly tell you which antenna is being locked, and the relative direction of the target compared to the patrol vehicle (e.g. "Front Closing"). |
+
 | Lock/unlock rear antenna  | Numpad 5                  | Locks the current speed of the rear antenna. If there is a fast speed displayed, the system will lock the fast speed. Otherwise it will lock the strong speed. When you lock a speed, the radar will audibly tell you which antenna is being locked, and the relative direction of the target compared to the patrol vehicle (e.g. "Rear Away"). |
+
 | Lock/unlock front plate   | Numpad 9                  | Locks the plate currently caught by the front plate reader, an audible beep will also be heard unless the plate reader audio option in the operator menu is changed. |
-| Lock/unlock rear plate    | Numpad 6                  | Locks the plate currently caught by the rear plate reader, an audible beep will also be heard unless the plate reader audio option in the operator menu is changed. |
+
+| Lock/unlock rear plate    | Numpad 6                  | Locks the plate currently caught by the rear plate reader, an audible beep will also be heard unless 
+the plate reader audio option in the operator menu is changed. |
+
 | Toggle keylock            | L                         | Toggles the keylock state. When enabled, none of the keybinds will work until keylock is toggled again. |
 
 ## Script configuration
