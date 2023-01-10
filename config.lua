@@ -53,7 +53,7 @@ CONFIG.allow_quick_start_video = true
 
 -- Allow passenger view
 -- When enabled, the front seat passenger will be able to view the radar and plate reader from their end.
-CONFIG.allow_passenger_view = false
+CONFIG.allow_passenger_view = true
 
 -- Allow passenger control
 -- Dependent on CONFIG.allow_passenger_view. When enabled, the front seat passenger will be able to open the
